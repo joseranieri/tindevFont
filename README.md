@@ -1,2 +1,2 @@
 # tindevFont
-Projeto de front end feito em React na semana da Omnistack
+Projeto de Front-end feito em React na semana da Omnistack
